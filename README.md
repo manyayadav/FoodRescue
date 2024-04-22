@@ -1,4 +1,4 @@
-# FoodRescue
+## Overview
 FoodRescue dedicated to efficiently collecting surplus food from establishments such as hostels and restaurants, and redistributing it to those in need. Leveraging advanced logistics and technology, our initiative optimizes resource allocation and fosters collaboration across the entire supply chain.
 
 ## Objectives:
