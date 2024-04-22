@@ -19,7 +19,7 @@ Collaborative Platform: Our platform fosters collaboration and partnership among
 - ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- 
+  
 ### How You Can Contribute:
 Volunteer: Join our team of volunteers and help collect and distribute surplus food in your community.
 Donate: Support our initiative by making a donation to help cover operational costs and expand our reach.
